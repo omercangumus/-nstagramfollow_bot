@@ -1,0 +1,33 @@
+# Hassas dosyalar - ASLA PUSH YAPMAYIN!
+.env
+.env.*
+bot.log
+followed_users.txt
+instagram_cookies.json
+*.log
+*.json
+*.db
+*.sqlite
+*.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE dosyaları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Geçici dosyalar
+*.tmp
+*.temp
